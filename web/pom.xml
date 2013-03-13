@@ -40,8 +40,8 @@
     	<artifactId>javax.faces-api</artifactId>
   		<scope>provided</scope>
     <version>2.1</version>
-</dependency>
-  </dependencies>
+	</dependency>
+   </dependencies>
   <dependencyManagement>
   	<dependencies>
   		<dependency>
